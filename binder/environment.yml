@@ -1,0 +1,16 @@
+channels:
+- damianavila82
+- defaults
+dependencies:
+- rise
+- pip:
+  - matplotlib
+  - numpy
+  - sympy
+  - ipywidgets
+  - scipy
+  - numba
+  - scikit-image
+  - pandas
+  - seaborn
+
