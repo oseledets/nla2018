@@ -1,6 +1,6 @@
 # Numerical linear algebra course, @SkolTech, Term 2, 2018
 
-nla.skoltech.ru
+https://nla.skoltech.ru
 
 This repository contains lectures and homeworks for Numerical linear algebra course.
 
