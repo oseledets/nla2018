@@ -1,10 +1,10 @@
 # Numerical linear algebra course, @SkolTech, Term 2, 2018
 
-https://nla.skoltech.ru
+https://nla.skoltech.ru, [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/oseledets/nla2018/master)
 
-This repository contains lectures and homeworks for Numerical linear algebra course.
+This repository contains lectures and homeworks for Numerical linear algebra course. It will be updated as the class progresses.
 
-It will be updated as the class progresses. Detailed syllabus and lecture notes can be found [here](./table_of_contents.ipynb).
-
-Also if you do not want to clone this repository locally, you can use [Binder image](https://mybinder.org/v2/gh/oseledets/nla2018/master) of this repository to run cells of lectures directly in your browser.
+| Week | Lecture notebooks | Supplementary materials | Homework | Tests |
+|:------:|:----------|:----------|:----------|-------|
+|1| General info [[GitHub](lectures/general_info.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/oseledets/nla2018/blob/master/lectures/general_info.ipynb)]  <br> Lecture 1. Floating-point arithmetic, vector norms [[GitHub](lectures/lecture-1.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/oseledets/nla2018/blob/master/lectures/lecture-1.ipynb)] <br> Lecture 2. Matrix norms and unitary matrices [[GitHub](lectures/lecture-2.ipynb), [Nbviewer](https://nbviewer.jupyter.org/github/oseledets/nla2018/blob/master/lectures/lecture-2.ipynb)]| [Python intro](./lectures/Python_Intro.ipynb) | [Requirements](hw.pdf) <br> [Problem set 1](https://nbviewer.jupyter.org/github/oseledets/nla2018/blob/master/psets/PS1.ipynb) <br> Deadline: 11/11/18 (23:59)| | 
 
