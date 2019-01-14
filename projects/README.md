@@ -39,4 +39,4 @@
 | 35 | Leonid Kuphecnko, Jerry Gozie, Konstantin Chukreev, Nikita Volkov, Oleg Ziangirov | Efficient energy use of local and remote data processing | [Presentation](./presentations/team_35.pdf) |
 | 36 | Philip Blagoveschensky, Ivan Golovatskikh, Mirfarid Musavian, Maria Sindeeva | Feature Selection via Maximum Volume Submatrices | [Presentation](./presentations/team_36.pdf), [source code](https://github.com/Vicontek/maxvol) |
 | 37 | Grigorii Melnikov, Klim Kireev, Edgar Kaziakhmedov | Homomorphic encryption based on approximate eigenvector problem | [Presentation](./presentations/team_37.pdf) |
-| 39 | Artem Shafarostov, Elizaveta Lazareva, Anna Aleshina, Anton Myshak, Ekaterina Serkova | Single Image Super-Resolution from Transformed Self-Examplars | [Presentation](./presentations/team_39.pdf) |
+| 38 | Artem Shafarostov, Elizaveta Lazareva, Anna Aleshina, Anton Myshak, Ekaterina Serkova | Single Image Super-Resolution from Transformed Self-Examplars | [Presentation](./presentations/team_39.pdf) |
